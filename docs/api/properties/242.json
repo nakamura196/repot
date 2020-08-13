@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/242",
+    "@type": "o:Property",
+    "o:comment": "逐次刊行物の刊行頻度",
+    "o:id": 242,
+    "o:label": "Publication Periodicity",
+    "o:local_name": "publicationPeriodicity",
+    "o:term": "dcndl:publicationPeriodicity",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

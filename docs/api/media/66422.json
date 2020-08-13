@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/media/66422",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-16T08:42:21+00:00"
+    },
+    "o:filename": "5466413c605709c592e6983024d486d80d838aa4.jpg",
+    "o:id": 66422,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items/66418",
+        "o:id": 66418
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-16T08:42:21+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/repot/files/original/5466413c605709c592e6983024d486d80d838aa4.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "3246807791df136f3c18cf91cb1aba40846ca7a40758986d16825003f24c2ffd",
+    "o:size": null,
+    "o:source": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_004.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/repot/files/large/5466413c605709c592e6983024d486d80d838aa4.jpg",
+        "medium": "http://localhost:8882/d_omekas/repot/files/medium/5466413c605709c592e6983024d486d80d838aa4.jpg",
+        "square": "http://localhost:8882/d_omekas/repot/files/square/5466413c605709c592e6983024d486d80d838aa4.jpg"
+    },
+    "o:title": null
+}

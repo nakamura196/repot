@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/57",
+    "@type": "o:Property",
+    "o:comment": "Critical or explanatory note for a Document.",
+    "o:id": 57,
+    "o:label": "annotates",
+    "o:local_name": "annotates",
+    "o:term": "bibo:annotates",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

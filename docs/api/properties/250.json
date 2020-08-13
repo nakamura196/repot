@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/250",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源が属する刊行物の号",
+    "o:id": 250,
+    "o:label": "Number",
+    "o:local_name": "number",
+    "o:term": "dcndl:number",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

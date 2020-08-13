@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/326",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 326,
+    "o:label": "版口\n      千字文",
+    "o:local_name": "wa_14",
+    "o:term": "ex:wa_14",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

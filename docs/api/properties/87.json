@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/87",
+    "@type": "o:Property",
+    "o:comment": "The date on which a legal case is argued before a court. Date is of format xsd:date",
+    "o:id": 87,
+    "o:label": "date argued",
+    "o:local_name": "argued",
+    "o:term": "bibo:argued",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/285",
+    "@type": "o:Property",
+    "o:comment": "Contributorの読み又は翻字形",
+    "o:id": 285,
+    "o:label": "Contributor Transcription",
+    "o:local_name": "contributorTranscription",
+    "o:term": "dcndl:contributorTranscription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

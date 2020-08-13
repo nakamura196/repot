@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/324",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 324,
+    "o:label": "界線・字詰",
+    "o:local_name": "wa_12",
+    "o:term": "ex:wa_12",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

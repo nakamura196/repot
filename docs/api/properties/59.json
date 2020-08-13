@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/59",
+    "@type": "o:Property",
+    "o:comment": "Relates a document to another document that cites the\nfirst document.",
+    "o:id": 59,
+    "o:label": "cited by",
+    "o:local_name": "citedBy",
+    "o:term": "bibo:citedBy",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/143",
+    "@type": "o:Property",
+    "o:comment": "The surname of some person.",
+    "o:id": 143,
+    "o:label": "Surname",
+    "o:local_name": "surname",
+    "o:term": "foaf:surname",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

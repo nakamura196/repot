@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/288",
+    "@type": "o:Property",
+    "o:comment": "Degree Grantorの読み又は翻字形",
+    "o:id": 288,
+    "o:label": "Degree Grantor Transcription",
+    "o:local_name": "degreeGrantorTranscription",
+    "o:term": "dcndl:degreeGrantorTranscription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

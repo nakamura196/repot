@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/media/66189",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-25T01:00:44+00:00"
+    },
+    "o:filename": "6ae67e66f1a50468518b62cda6d85e779c225c5b.jpg",
+    "o:id": 66189,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items/66048",
+        "o:id": 66048
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-25T01:00:44+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/repot/files/original/6ae67e66f1a50468518b62cda6d85e779c225c5b.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "3050212a7467ca14728f4589e5c4218a386779ca2daf2a9e77f74207266641f9",
+    "o:size": null,
+    "o:source": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp/1_out/00032.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/repot/files/large/6ae67e66f1a50468518b62cda6d85e779c225c5b.jpg",
+        "medium": "http://localhost:8882/d_omekas/repot/files/medium/6ae67e66f1a50468518b62cda6d85e779c225c5b.jpg",
+        "square": "http://localhost:8882/d_omekas/repot/files/square/6ae67e66f1a50468518b62cda6d85e779c225c5b.jpg"
+    },
+    "o:title": null
+}

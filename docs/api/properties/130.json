@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/130",
+    "@type": "o:Property",
+    "o:comment": "Title (Mr, Mrs, Ms, Dr. etc)",
+    "o:id": 130,
+    "o:label": "title",
+    "o:local_name": "title",
+    "o:term": "foaf:title",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

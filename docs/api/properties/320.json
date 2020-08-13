@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/320",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 320,
+    "o:label": "出版事項",
+    "o:local_name": "wa_08",
+    "o:term": "ex:wa_08",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

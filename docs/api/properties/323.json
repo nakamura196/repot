@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/323",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 323,
+    "o:label": "匡郭・寸法",
+    "o:local_name": "wa_11",
+    "o:term": "ex:wa_11",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

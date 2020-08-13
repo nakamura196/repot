@@ -1,0 +1,69 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/sites/4",
+    "@type": "o:Site",
+    "o:assign_new_items": false,
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-30T09:38:23+00:00"
+    },
+    "o:homepage": null,
+    "o:id": 4,
+    "o:is_public": true,
+    "o:item_pool": {
+        "item_set_id": [
+            "66248"
+        ],
+        "property": [
+            {
+                "joiner": "and",
+                "property": "",
+                "text": "",
+                "type": "eq"
+            }
+        ],
+        "resource_class_id": "",
+        "site_id": ""
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2020-08-13T02:54:00+00:00"
+    },
+    "o:navigation": [
+        {
+            "data": {
+                "id": 10,
+                "label": ""
+            },
+            "links": [],
+            "type": "page"
+        }
+    ],
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:page": [
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/site_pages/10",
+            "o:id": 10
+        }
+    ],
+    "o:site_item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items?site_id=4"
+    },
+    "o:site_item_set": [],
+    "o:site_permission": [
+        {
+            "o:role": "admin",
+            "o:user": {
+                "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+                "o:id": 1
+            }
+        }
+    ],
+    "o:slug": "3d",
+    "o:summary": null,
+    "o:theme": "foundation",
+    "o:title": "3D"
+}

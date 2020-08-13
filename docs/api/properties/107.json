@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/107",
+    "@type": "o:Property",
+    "o:comment": "The number of volumes contained in a collection of documents (usually a series, periodical, etc.).",
+    "o:id": 107,
+    "o:label": "number of volumes",
+    "o:local_name": "numVolumes",
+    "o:term": "bibo:numVolumes",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

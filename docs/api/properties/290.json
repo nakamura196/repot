@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/290",
+    "@type": "o:Property",
+    "o:comment": "dcndl:bibRecordCategoryの下位区分にあたる情報",
+    "o:id": 290,
+    "o:label": "Bibliographic Record Sub Category",
+    "o:local_name": "bibRecordSubCategory",
+    "o:term": "dcndl:bibRecordSubCategory",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

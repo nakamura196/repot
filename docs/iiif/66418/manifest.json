@@ -1,0 +1,1253 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/repot/iiif/66418/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "三條西家伝",
+    "metadata": [
+        {
+            "label": "Identifier",
+            "term": "dcterms:identifier",
+            "value": "ms0038-015"
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "三條西家伝"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/repot/api/items/66418.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66418/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p1",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_001.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_001.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p2",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_002.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_002.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p3",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_003.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_003.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p4",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0004-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p4",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_004.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[4]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_004.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p5",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0005-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p5",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_005.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[5]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_005.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p6",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0006-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p6",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_006.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[6]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_006.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p7",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0007-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p7",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_007.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[7]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_007.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p8",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0008-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p8",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_008.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[8]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_008.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p9",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0009-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p9",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_009.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[9]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_009.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p10",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0010-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p10",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_010.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[10]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_010.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p11",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0011-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p11",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_011.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[11]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_011.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p12",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0012-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p12",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_012.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[12]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_012.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p13",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0013-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p13",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_013.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[13]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_013.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p14",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0014-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p14",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_014.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[14]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_014.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p15",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0015-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p15",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_015.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[15]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_015.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p16",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0016-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p16",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_016.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[16]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_016.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p17",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0017-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p17",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_017.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[17]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_017.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p18",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0018-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p18",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_018.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[18]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_018.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p19",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0019-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p19",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_019.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[19]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_019.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p20",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0020-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p20",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_020.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[20]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_020.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p21",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0021-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p21",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_021.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[21]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_021.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p22",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0022-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p22",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_022.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[22]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_022.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p23",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0023-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p23",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_023.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[23]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_023.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p24",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0024-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p24",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_024.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[24]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_024.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p25",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0025-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p25",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_025.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[25]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_025.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p26",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0026-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p26",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_026.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[26]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_026.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p27",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0027-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p27",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_027.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[27]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_027.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p28",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0028-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p28",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_028.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[28]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_028.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p29",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0029-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p29",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_029.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[29]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_029.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p30",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0030-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p30",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_030.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[30]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_030.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p31",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0031-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p31",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_031.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[31]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_031.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p32",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0032-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p32",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_032.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[32]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_032.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p33",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0033-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p33",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_033.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[33]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_033.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p34",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0034-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p34",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_034.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[34]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_034.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p35",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0035-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p35",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_035.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[35]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_035.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p36",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0036-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p36",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_036.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[36]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_036.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p37",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0037-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p37",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_037.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[37]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_037.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p38",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0038-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p38",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_038.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[38]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_038.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p39",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0039-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p39",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_039.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[39]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_039.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p40",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0040-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p40",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_040.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[40]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_040.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p41",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0041-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p41",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_041.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[41]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_041.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p42",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0042-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p42",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_042.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[42]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_042.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p43",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0043-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p43",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_043.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[43]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_043.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p44",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0044-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p44",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_044.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[44]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_044.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p45",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0045-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p45",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_045.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[45]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_045.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p46",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0046-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p46",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_046.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[46]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_046.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p47",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0047-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p47",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_047.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[47]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_047.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p48",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0048-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p48",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_048.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[48]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_048.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66418/canvas/p49",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66418/annotation/p0049-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66418/canvas/p49",
+                            "resource": {
+                                "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_049.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[49]",
+                    "thumbnail": {
+                        "@id": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_049.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_001.jpg"
+}

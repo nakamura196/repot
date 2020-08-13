@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/103",
+    "@type": "o:Property",
+    "o:comment": "An issue number",
+    "o:id": 103,
+    "o:label": "issue",
+    "o:local_name": "issue",
+    "o:term": "bibo:issue",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

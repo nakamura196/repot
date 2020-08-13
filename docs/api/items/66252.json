@@ -1,0 +1,62 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/items/66252",
+    "@type": "o:Item",
+    "dcterms:description": [
+        {
+            "@value": "Soap stone statuette of Rodin's The Kiss. Found at Snooper's Paradise in Brighton UK.",
+            "is_public": true,
+            "property_id": 4,
+            "property_label": "Description",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "The Kiss",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-30T09:48:26+00:00"
+    },
+    "o:id": 66252,
+    "o:is_public": true,
+    "o:item_set": [
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/item_sets/66248",
+            "o:id": 66248
+        }
+    ],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66253",
+            "o:id": 66253
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66254",
+            "o:id": 66254
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66255",
+            "o:id": 66255
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-30T09:49:37+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "The Kiss"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/40",
+    "@type": "o:Property",
+    "o:comment": "Spatial characteristics of the resource.",
+    "o:id": 40,
+    "o:label": "Spatial Coverage",
+    "o:local_name": "spatial",
+    "o:term": "dcterms:spatial",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/1",
+        "o:id": 1
+    }
+}

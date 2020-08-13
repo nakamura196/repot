@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/294",
+    "@type": "o:Property",
+    "o:comment": "をも見よ参照（本名）",
+    "o:id": 294,
+    "o:label": "Real Name",
+    "o:local_name": "realName",
+    "o:term": "dcndl:realName",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

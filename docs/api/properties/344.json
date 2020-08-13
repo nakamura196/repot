@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/344",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 344,
+    "o:label": "地名1緯度",
+    "o:local_name": "lat1",
+    "o:term": "ex:lat1",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

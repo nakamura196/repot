@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/171",
+    "@type": "o:Property",
+    "o:comment": "The primary topic of some page or document.",
+    "o:id": 171,
+    "o:label": "primary topic",
+    "o:local_name": "primaryTopic",
+    "o:term": "foaf:primaryTopic",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

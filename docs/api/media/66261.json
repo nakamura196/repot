@@ -1,0 +1,122 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/media/66261",
+    "@type": "o:Media",
+    "data": {
+        "@context": "http://iiif.io/api/image/2/context.json",
+        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif",
+        "height": 23339,
+        "profile": [
+            "http://iiif.io/api/image/2/level1.json",
+            {
+                "formats": [
+                    "jpg"
+                ],
+                "qualities": [
+                    "native",
+                    "color",
+                    "gray"
+                ],
+                "supports": [
+                    "regionByPct",
+                    "sizeByForcedWh",
+                    "sizeByWh",
+                    "sizeAboveFull",
+                    "rotationBy90s",
+                    "mirroring",
+                    "gray"
+                ]
+            }
+        ],
+        "protocol": "http://iiif.io/api/image",
+        "sizes": [
+            {
+                "height": 45,
+                "width": 56
+            },
+            {
+                "height": 91,
+                "width": 113
+            },
+            {
+                "height": 182,
+                "width": 226
+            },
+            {
+                "height": 364,
+                "width": 453
+            },
+            {
+                "height": 729,
+                "width": 906
+            },
+            {
+                "height": 1458,
+                "width": 1813
+            },
+            {
+                "height": 2917,
+                "width": 3626
+            },
+            {
+                "height": 5834,
+                "width": 7252
+            }
+        ],
+        "tiles": [
+            {
+                "height": 256,
+                "scaleFactors": [
+                    1,
+                    2,
+                    4,
+                    8,
+                    16,
+                    32,
+                    64,
+                    128,
+                    256,
+                    512
+                ],
+                "width": 256
+            }
+        ],
+        "width": 29008
+    },
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-04T08:08:27+00:00"
+    },
+    "o:filename": "81fa33b6deeb56847823a6d1dac7d7a5f6782352",
+    "o:id": 66261,
+    "o:ingester": "iiif",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items/66260",
+        "o:id": 66260
+    },
+    "o:lang": null,
+    "o:media_type": null,
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-04T08:08:27+00:00"
+    },
+    "o:original_url": null,
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "iiif",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": null,
+    "o:size": null,
+    "o:source": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/info.json",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/repot/files/large/81fa33b6deeb56847823a6d1dac7d7a5f6782352.jpg",
+        "medium": "http://localhost:8882/d_omekas/repot/files/medium/81fa33b6deeb56847823a6d1dac7d7a5f6782352.jpg",
+        "square": "http://localhost:8882/d_omekas/repot/files/square/81fa33b6deeb56847823a6d1dac7d7a5f6782352.jpg"
+    },
+    "o:title": null
+}

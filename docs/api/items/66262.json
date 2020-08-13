@@ -1,0 +1,353 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/items/66262",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "hiraga",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "アルバム写真",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-13T00:05:05+00:00"
+    },
+    "o:id": 66262,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66263",
+            "o:id": 66263
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66264",
+            "o:id": 66264
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66265",
+            "o:id": 66265
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66266",
+            "o:id": 66266
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66267",
+            "o:id": 66267
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66268",
+            "o:id": 66268
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66269",
+            "o:id": 66269
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66270",
+            "o:id": 66270
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66271",
+            "o:id": 66271
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66272",
+            "o:id": 66272
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66273",
+            "o:id": 66273
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66274",
+            "o:id": 66274
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66275",
+            "o:id": 66275
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66276",
+            "o:id": 66276
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66277",
+            "o:id": 66277
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66278",
+            "o:id": 66278
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66279",
+            "o:id": 66279
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66280",
+            "o:id": 66280
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66281",
+            "o:id": 66281
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66282",
+            "o:id": 66282
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66283",
+            "o:id": 66283
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66284",
+            "o:id": 66284
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66285",
+            "o:id": 66285
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66286",
+            "o:id": 66286
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66287",
+            "o:id": 66287
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66288",
+            "o:id": 66288
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66289",
+            "o:id": 66289
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66290",
+            "o:id": 66290
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66291",
+            "o:id": 66291
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66292",
+            "o:id": 66292
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66293",
+            "o:id": 66293
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66294",
+            "o:id": 66294
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66295",
+            "o:id": 66295
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66296",
+            "o:id": 66296
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66297",
+            "o:id": 66297
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66298",
+            "o:id": 66298
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66299",
+            "o:id": 66299
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66300",
+            "o:id": 66300
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66301",
+            "o:id": 66301
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66302",
+            "o:id": 66302
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66303",
+            "o:id": 66303
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66304",
+            "o:id": 66304
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66305",
+            "o:id": 66305
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66306",
+            "o:id": 66306
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66307",
+            "o:id": 66307
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66308",
+            "o:id": 66308
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66309",
+            "o:id": 66309
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66310",
+            "o:id": 66310
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66311",
+            "o:id": 66311
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66312",
+            "o:id": 66312
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66313",
+            "o:id": 66313
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66314",
+            "o:id": 66314
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66315",
+            "o:id": 66315
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66316",
+            "o:id": 66316
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66317",
+            "o:id": 66317
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66318",
+            "o:id": 66318
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66319",
+            "o:id": 66319
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66320",
+            "o:id": 66320
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66321",
+            "o:id": 66321
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66322",
+            "o:id": 66322
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66323",
+            "o:id": 66323
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66324",
+            "o:id": 66324
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66325",
+            "o:id": 66325
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66326",
+            "o:id": 66326
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66327",
+            "o:id": 66327
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66328",
+            "o:id": 66328
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66329",
+            "o:id": 66329
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66330",
+            "o:id": 66330
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66331",
+            "o:id": 66331
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66332",
+            "o:id": 66332
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66333",
+            "o:id": 66333
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66334",
+            "o:id": 66334
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66335",
+            "o:id": 66335
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66336",
+            "o:id": 66336
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66337",
+            "o:id": 66337
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66338",
+            "o:id": 66338
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66339",
+            "o:id": 66339
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-13T00:05:05+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "アルバム写真"
+}

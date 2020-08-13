@@ -1,0 +1,40 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/items/66241",
+    "@type": "o:Item",
+    "dcterms:title": [
+        {
+            "@value": "百鬼夜行図",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-29T23:56:46+00:00"
+    },
+    "o:id": 66241,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66242",
+            "o:id": 66242
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-29T23:56:46+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "百鬼夜行図"
+}

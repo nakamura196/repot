@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/266",
+    "@type": "o:Property",
+    "o:comment": "Titleの読み又は翻字形",
+    "o:id": 266,
+    "o:label": "Title Transcription",
+    "o:local_name": "titleTranscription",
+    "o:term": "dcndl:titleTranscription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

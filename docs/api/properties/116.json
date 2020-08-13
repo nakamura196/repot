@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/116",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 116,
+    "o:label": "shortDescription",
+    "o:local_name": "shortDescription",
+    "o:term": "bibo:shortDescription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

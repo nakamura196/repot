@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/repot/iiif/66241/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "百鬼夜行図",
+    "metadata": [
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "百鬼夜行図"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/repot/api/items/66241.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66241/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66241/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66241/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66241/canvas/p1",
+                            "resource": {
+                                "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/full/full/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/full/full/0/default.jpg"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/full/full/0/default.jpg"
+}

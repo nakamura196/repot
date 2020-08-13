@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/342",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 342,
+    "o:label": "種板番号",
+    "o:local_name": "syuhan",
+    "o:term": "ex:syuhan",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

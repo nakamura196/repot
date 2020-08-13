@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/81",
+    "@type": "o:Property",
+    "o:comment": "The publication status of (typically academic) content.",
+    "o:id": 81,
+    "o:label": "status",
+    "o:local_name": "status",
+    "o:term": "bibo:status",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/308",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 308,
+    "o:label": "版",
+    "o:local_name": "version",
+    "o:term": "ex:version",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

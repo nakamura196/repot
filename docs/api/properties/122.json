@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/122",
+    "@type": "o:Property",
+    "o:comment": "A volume number",
+    "o:id": 122,
+    "o:label": "volume",
+    "o:local_name": "volume",
+    "o:term": "bibo:volume",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

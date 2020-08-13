@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/304",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 304,
+    "o:label": "形態的記述",
+    "o:local_name": "format",
+    "o:term": "ex:format",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/media/66244",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-29T23:57:17+00:00"
+    },
+    "o:filename": "66243/hyakki_3.png",
+    "o:id": 66244,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items/66243",
+        "o:id": 66243
+    },
+    "o:lang": null,
+    "o:media_type": "image/png",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-29T23:57:17+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/repot/files/original/66243/hyakki_3.png",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "27558a2a67d914262568ca62d31d9052f0be7d66762b523f0f6f963928b97b2d",
+    "o:size": null,
+    "o:source": "hyakki_3.png",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/repot/files/large/66243/hyakki_3.jpg",
+        "medium": "http://localhost:8882/d_omekas/repot/files/medium/66243/hyakki_3.jpg",
+        "square": "http://localhost:8882/d_omekas/repot/files/square/66243/hyakki_3.jpg"
+    },
+    "o:title": null
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/213",
+    "@type": "o:Property",
+    "o:comment": "A human-readable name for the subject.",
+    "o:id": 213,
+    "o:label": "label",
+    "o:local_name": "label",
+    "o:term": "rdfs:label",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/7",
+        "o:id": 7
+    }
+}

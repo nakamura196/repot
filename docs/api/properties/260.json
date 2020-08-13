@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/260",
+    "@type": "o:Property",
+    "o:comment": "請求記号",
+    "o:id": 260,
+    "o:label": "Local Call Number",
+    "o:local_name": "localCallNumber",
+    "o:term": "dcndl:localCallNumber",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

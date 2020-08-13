@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/207",
+    "@type": "o:Property",
+    "o:comment": "An rdf:List of label/value pairs providing descriptive metadata about the resource, intended for human audience",
+    "o:id": 207,
+    "o:label": "metadataLabels",
+    "o:local_name": "metadataLabels",
+    "o:term": "sc:metadataLabels",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/6",
+        "o:id": 6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/182",
+    "@type": "o:Property",
+    "o:comment": "The birthday of this Agent, represented in mm-dd string form, eg. '12-31'.",
+    "o:id": 182,
+    "o:label": "birthday",
+    "o:local_name": "birthday",
+    "o:term": "foaf:birthday",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

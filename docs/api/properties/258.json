@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/258",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の保有者",
+    "o:id": 258,
+    "o:label": "Holding Agent",
+    "o:local_name": "holdingAgent",
+    "o:term": "dcndl:holdingAgent",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

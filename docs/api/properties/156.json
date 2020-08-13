@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/156",
+    "@type": "o:Property",
+    "o:comment": "A thing depicted in this representation.",
+    "o:id": 156,
+    "o:label": "depicts",
+    "o:local_name": "depicts",
+    "o:term": "foaf:depicts",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

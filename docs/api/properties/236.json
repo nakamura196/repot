@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/236",
+    "@type": "o:Property",
+    "o:comment": "出版地・頒布地",
+    "o:id": 236,
+    "o:label": "Publication Place",
+    "o:local_name": "publicationPlace",
+    "o:term": "dcndl:publicationPlace",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

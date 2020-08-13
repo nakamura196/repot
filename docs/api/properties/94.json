@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/94",
+    "@type": "o:Property",
+    "o:comment": "The name defining a special edition of a document. Normally its a literal value composed of a version number and words.",
+    "o:id": 94,
+    "o:label": "edition",
+    "o:local_name": "edition",
+    "o:term": "bibo:edition",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

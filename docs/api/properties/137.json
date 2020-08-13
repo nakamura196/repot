@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/137",
+    "@type": "o:Property",
+    "o:comment": "An MSN chat ID",
+    "o:id": 137,
+    "o:label": "MSN chat ID",
+    "o:local_name": "msnChatID",
+    "o:term": "foaf:msnChatID",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

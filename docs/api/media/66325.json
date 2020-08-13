@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/media/66325",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-13T00:09:40+00:00"
+    },
+    "o:filename": "c9be034f8ec8fa652ac4cddafbc4c419481f257d.jpg",
+    "o:id": 66325,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items/66262",
+        "o:id": 66262
+    },
+    "o:lang": null,
+    "o:media_type": "image/jpeg",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-13T00:09:40+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/repot/files/original/c9be034f8ec8fa652ac4cddafbc4c419481f257d.jpg",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "1c2d809c1b64bbd100b45e39198a3ba362793335ed35015269ca6e88227a3de2",
+    "o:size": null,
+    "o:source": "https://diyhistory.org/tmp/images/0063.jpg",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/repot/files/large/c9be034f8ec8fa652ac4cddafbc4c419481f257d.jpg",
+        "medium": "http://localhost:8882/d_omekas/repot/files/medium/c9be034f8ec8fa652ac4cddafbc4c419481f257d.jpg",
+        "square": "http://localhost:8882/d_omekas/repot/files/square/c9be034f8ec8fa652ac4cddafbc4c419481f257d.jpg"
+    },
+    "o:title": null
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/265",
+    "@type": "o:Property",
+    "o:comment": "出版者の所在に関する情報",
+    "o:id": 265,
+    "o:label": "Location",
+    "o:local_name": "location",
+    "o:term": "dcndl:location",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

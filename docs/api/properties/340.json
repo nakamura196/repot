@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/340",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 340,
+    "o:label": "所蔵館",
+    "o:local_name": "holder",
+    "o:term": "ex:holder",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

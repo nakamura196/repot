@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/248",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の作成者に博士号を授与した大学名",
+    "o:id": 248,
+    "o:label": "Degree Grantor",
+    "o:local_name": "degreeGrantor",
+    "o:term": "dcndl:degreeGrantor",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

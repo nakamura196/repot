@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/206",
+    "@type": "o:Property",
+    "o:comment": "A hint to a user agent as to how to render the resource",
+    "o:id": 206,
+    "o:label": "viewingHint",
+    "o:local_name": "viewingHint",
+    "o:term": "sc:viewingHint",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/6",
+        "o:id": 6
+    }
+}

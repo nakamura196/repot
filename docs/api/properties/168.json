@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/168",
+    "@type": "o:Property",
+    "o:comment": "An organization funding a project or person.",
+    "o:id": 168,
+    "o:label": "funded by",
+    "o:local_name": "fundedBy",
+    "o:term": "foaf:fundedBy",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

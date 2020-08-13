@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/67",
+    "@type": "o:Property",
+    "o:comment": "An ordered list of editors. Normally, this list is seen as a priority list that order editors by importance.",
+    "o:id": 67,
+    "o:label": "list of editors",
+    "o:local_name": "editorList",
+    "o:term": "bibo:editorList",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

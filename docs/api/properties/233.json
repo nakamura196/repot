@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/233",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の当該する巻又は部編に対し著作責任を持つ実体",
+    "o:id": 233,
+    "o:label": "Volume Creator",
+    "o:local_name": "volumeCreator",
+    "o:term": "dcndl:volumeCreator",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

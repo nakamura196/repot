@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/225",
+    "@type": "o:Property",
+    "o:comment": "多巻ものの各巻タイトル又は逐次刊行物の部編名",
+    "o:id": 225,
+    "o:label": "Volume Title",
+    "o:local_name": "volumeTitle",
+    "o:term": "dcndl:volumeTitle",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/84",
+    "@type": "o:Property",
+    "o:comment": "Relates a translated document to the original document.",
+    "o:id": 84,
+    "o:label": "translation of",
+    "o:local_name": "translationOf",
+    "o:term": "bibo:translationOf",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

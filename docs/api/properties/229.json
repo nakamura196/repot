@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/229",
+    "@type": "o:Property",
+    "o:comment": "統一タイトル",
+    "o:id": 229,
+    "o:label": "Uniform Title",
+    "o:local_name": "uniformTitle",
+    "o:term": "dcndl:uniformTitle",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

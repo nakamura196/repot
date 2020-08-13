@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/232",
+    "@type": "o:Property",
+    "o:comment": "単行書の構成レベルの各著作に著作責任を持つ実体",
+    "o:id": 232,
+    "o:label": "Part Creator",
+    "o:local_name": "partCreator",
+    "o:term": "dcndl:partCreator",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/184",
+    "@type": "o:Property",
+    "o:comment": "A string expressing what the user is happy for the general public (normally) to know about their current activity.",
+    "o:id": 184,
+    "o:label": "status",
+    "o:local_name": "status",
+    "o:term": "foaf:status",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

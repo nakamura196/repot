@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/239",
+    "@type": "o:Property",
+    "o:comment": "資料種別",
+    "o:id": 239,
+    "o:label": "Material Type",
+    "o:local_name": "materialType",
+    "o:term": "dcndl:materialType",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

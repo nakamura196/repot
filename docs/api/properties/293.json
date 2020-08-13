@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/293",
+    "@type": "o:Property",
+    "o:comment": "をも見よ参照（新称）",
+    "o:id": 293,
+    "o:label": "Later Name",
+    "o:local_name": "laterName",
+    "o:term": "dcndl:laterName",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

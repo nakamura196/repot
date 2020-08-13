@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/291",
+    "@type": "o:Property",
+    "o:comment": "書誌レコード作成のステータス",
+    "o:id": 291,
+    "o:label": "Cataloguing Status",
+    "o:local_name": "cataloguingStatus",
+    "o:term": "dcndl:cataloguingStatus",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/70",
+    "@type": "o:Property",
+    "o:comment": "An entity responsible for issuing often informally published documents such as press releases, reports, etc.",
+    "o:id": 70,
+    "o:label": "issuer",
+    "o:local_name": "issuer",
+    "o:term": "bibo:issuer",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

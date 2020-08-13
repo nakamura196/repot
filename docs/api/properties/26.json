@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/26",
+    "@type": "o:Property",
+    "o:comment": "The material or physical carrier of the resource.",
+    "o:id": 26,
+    "o:label": "Medium",
+    "o:local_name": "medium",
+    "o:term": "dcterms:medium",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/1",
+        "o:id": 1
+    }
+}

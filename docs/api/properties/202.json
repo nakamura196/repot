@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/202",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 202,
+    "o:label": "hasLists",
+    "o:local_name": "hasLists",
+    "o:term": "sc:hasLists",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/6",
+        "o:id": 6
+    }
+}

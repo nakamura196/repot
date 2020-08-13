@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/227",
+    "@type": "o:Property",
+    "o:comment": "別タイトル部編番号",
+    "o:id": 227,
+    "o:label": "Alternative Volume",
+    "o:local_name": "alternativeVolume",
+    "o:term": "dcndl:alternativeVolume",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

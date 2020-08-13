@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/5",
+    "@type": "o:Property",
+    "o:comment": "An entity responsible for making the resource available.",
+    "o:id": 5,
+    "o:label": "Publisher",
+    "o:local_name": "publisher",
+    "o:term": "dcterms:publisher",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/1",
+        "o:id": 1
+    }
+}

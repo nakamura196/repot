@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/1",
+    "@type": "o:Property",
+    "o:comment": "A name given to the resource.",
+    "o:id": 1,
+    "o:label": "Title",
+    "o:local_name": "title",
+    "o:term": "dcterms:title",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/1",
+        "o:id": 1
+    }
+}

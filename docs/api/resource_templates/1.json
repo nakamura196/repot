@@ -1,0 +1,60 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/resource_templates/1",
+    "@type": "o:ResourceTemplate",
+    "o:description_property": null,
+    "o:id": 1,
+    "o:label": "koumin",
+    "o:owner": null,
+    "o:resource_class": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/resource_classes/26",
+        "o:id": 26
+    },
+    "o:resource_template_property": [
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "タイトル/Title",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "http://localhost:8882/d_omekas/repot/api/properties/1",
+                "o:id": 1
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "年月日",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "http://localhost:8882/d_omekas/repot/api/properties/7",
+                "o:id": 7
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": "ランセンス/License",
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "http://localhost:8882/d_omekas/repot/api/properties/15",
+                "o:id": 15
+            }
+        },
+        {
+            "o:alternate_comment": null,
+            "o:alternate_label": null,
+            "o:data_type": null,
+            "o:is_private": false,
+            "o:is_required": false,
+            "o:property": {
+                "@id": "http://localhost:8882/d_omekas/repot/api/properties/13",
+                "o:id": 13
+            }
+        }
+    ],
+    "o:title_property": null
+}

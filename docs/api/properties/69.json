@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/69",
+    "@type": "o:Property",
+    "o:comment": "An agent that interview another agent.",
+    "o:id": 69,
+    "o:label": "interviewer",
+    "o:local_name": "interviewer",
+    "o:term": "bibo:interviewer",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

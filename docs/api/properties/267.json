@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/267",
+    "@type": "o:Property",
+    "o:comment": "Alternativeの読み又は翻字形",
+    "o:id": 267,
+    "o:label": "Alternative Transcription",
+    "o:local_name": "alternativeTranscription",
+    "o:term": "dcndl:alternativeTranscription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

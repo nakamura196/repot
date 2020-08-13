@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/301",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 301,
+    "o:label": "分類3",
+    "o:local_name": "tag3",
+    "o:term": "ex:tag3",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

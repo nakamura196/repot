@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/312",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 312,
+    "o:label": "巻次",
+    "o:local_name": "kan",
+    "o:term": "ex:kan",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

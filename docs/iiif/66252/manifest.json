@@ -1,0 +1,103 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/repot/iiif/66252/manifest.json",
+    "@type": "sc:Manifest",
+    "label": "The Kiss",
+    "metadata": [
+        {
+            "label": "Description",
+            "term": "dcterms:description",
+            "value": "Soap stone statuette of Rodin's The Kiss. Found at Snooper's Paradise in Brighton UK."
+        },
+        {
+            "label": "Title",
+            "term": "dcterms:title",
+            "value": "The Kiss"
+        }
+    ],
+    "seeAlso": "https://nakamura196.github.io/repot/api/items/66252.json",
+    "sequences": [
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66252/sequence/normal",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66252/canvas/p1",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66252/annotation/p0001-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66252/canvas/p1",
+                            "resource": {
+                                "@id": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thumb.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[1]",
+                    "thumbnail": {
+                        "@id": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thumb.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66252/canvas/p2",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66252/annotation/p0002-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66252/canvas/p2",
+                            "resource": {
+                                "@id": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thekiss.jpg",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[2]",
+                    "thumbnail": {
+                        "@id": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thekiss.jpg"
+                    },
+                    "width": 1
+                },
+                {
+                    "@id": "https://nakamura196.github.io/repot/iiif/66252/canvas/p3",
+                    "@type": "sc:Canvas",
+                    "height": 1,
+                    "images": [
+                        {
+                            "@id": "https://nakamura196.github.io/repot/iiif/66252/annotation/p0003-image",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://nakamura196.github.io/repot/iiif/66252/canvas/p3",
+                            "resource": {
+                                "@id": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thekiss.json",
+                                "@type": "dctypes:Image",
+                                "format": "image/jpeg",
+                                "height": 1,
+                                "width": 1
+                            }
+                        }
+                    ],
+                    "label": "[3]",
+                    "thumbnail": {
+                        "@id": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thekiss.json"
+                    },
+                    "width": 1
+                }
+            ]
+        }
+    ],
+    "thumbnail": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thumb.jpg"
+}

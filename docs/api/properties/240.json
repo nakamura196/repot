@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/240",
+    "@type": "o:Property",
+    "o:comment": "販売価格",
+    "o:id": 240,
+    "o:label": "Price",
+    "o:local_name": "price",
+    "o:term": "dcndl:price",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

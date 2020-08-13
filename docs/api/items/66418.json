@@ -1,0 +1,241 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/items/66418",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "ms0038-015",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "三條西家伝",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-16T08:41:33+00:00"
+    },
+    "o:id": 66418,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66419",
+            "o:id": 66419
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66420",
+            "o:id": 66420
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66421",
+            "o:id": 66421
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66422",
+            "o:id": 66422
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66423",
+            "o:id": 66423
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66424",
+            "o:id": 66424
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66425",
+            "o:id": 66425
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66426",
+            "o:id": 66426
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66427",
+            "o:id": 66427
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66428",
+            "o:id": 66428
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66429",
+            "o:id": 66429
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66430",
+            "o:id": 66430
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66431",
+            "o:id": 66431
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66432",
+            "o:id": 66432
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66433",
+            "o:id": 66433
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66434",
+            "o:id": 66434
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66435",
+            "o:id": 66435
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66436",
+            "o:id": 66436
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66437",
+            "o:id": 66437
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66438",
+            "o:id": 66438
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66439",
+            "o:id": 66439
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66440",
+            "o:id": 66440
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66441",
+            "o:id": 66441
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66442",
+            "o:id": 66442
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66443",
+            "o:id": 66443
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66444",
+            "o:id": 66444
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66445",
+            "o:id": 66445
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66446",
+            "o:id": 66446
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66447",
+            "o:id": 66447
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66448",
+            "o:id": 66448
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66449",
+            "o:id": 66449
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66450",
+            "o:id": 66450
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66451",
+            "o:id": 66451
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66452",
+            "o:id": 66452
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66453",
+            "o:id": 66453
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66454",
+            "o:id": 66454
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66455",
+            "o:id": 66455
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66456",
+            "o:id": 66456
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66457",
+            "o:id": 66457
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66458",
+            "o:id": 66458
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66459",
+            "o:id": 66459
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66460",
+            "o:id": 66460
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66461",
+            "o:id": 66461
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66462",
+            "o:id": 66462
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66463",
+            "o:id": 66463
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66464",
+            "o:id": 66464
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66465",
+            "o:id": 66465
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66466",
+            "o:id": 66466
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66467",
+            "o:id": 66467
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-11-16T08:41:33+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "三條西家伝"
+}

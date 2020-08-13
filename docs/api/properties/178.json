@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/178",
+    "@type": "o:Property",
+    "o:comment": "Indicates a homepage of the service provide for this online account.",
+    "o:id": 178,
+    "o:label": "account service homepage",
+    "o:local_name": "accountServiceHomepage",
+    "o:term": "foaf:accountServiceHomepage",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/96",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 96,
+    "o:label": "gtin14",
+    "o:local_name": "gtin14",
+    "o:term": "bibo:gtin14",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

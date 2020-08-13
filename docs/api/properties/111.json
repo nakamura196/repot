@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/111",
+    "@type": "o:Property",
+    "o:comment": "Starting page number within a continuous page range.",
+    "o:id": 111,
+    "o:label": "page start",
+    "o:local_name": "pageStart",
+    "o:term": "bibo:pageStart",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

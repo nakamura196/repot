@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/219",
+    "@type": "o:Property",
+    "o:comment": "読み又は翻字形",
+    "o:id": 219,
+    "o:label": "Transcription",
+    "o:local_name": "transcription",
+    "o:term": "dcndl:transcription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

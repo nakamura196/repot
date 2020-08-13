@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/316",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 316,
+    "o:label": "祕密\n    儀軌",
+    "o:local_name": "wa_04",
+    "o:term": "ex:wa_04",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

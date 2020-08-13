@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/214",
+    "@type": "o:Property",
+    "o:comment": "A domain of the subject property.",
+    "o:id": 214,
+    "o:label": "domain",
+    "o:local_name": "domain",
+    "o:term": "rdfs:domain",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/7",
+        "o:id": 7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/115",
+    "@type": "o:Property",
+    "o:comment": "A section number",
+    "o:id": 115,
+    "o:label": "section",
+    "o:local_name": "section",
+    "o:term": "bibo:section",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,177 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://nakamura196.github.io/repot/iiif/collection.json",
+    "@type": "sc:Collection",
+    "created": "2020-08-14 05:20:36.696466",
+    "label": "repot",
+    "manifests": [
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66241/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "百鬼夜行図",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "百鬼夜行図"
+                }
+            ],
+            "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/full/full/0/default.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66260/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "大明地理之図",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "term": "dcterms:identifier",
+                    "value": "map_toyo"
+                },
+                {
+                    "label": "Rights",
+                    "term": "dcterms:rights",
+                    "value": "http://creativecommons.org/licenses/by/4.0/"
+                },
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "大明地理之図"
+                },
+                {
+                    "label": "attributionLabel",
+                    "term": "sc:attributionLabel",
+                    "value": "東洋文庫 / TOYO BUNKO"
+                }
+            ],
+            "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/tmp/toyo/toyo.tif/info.json"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66237/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "heatmap",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "heatmap"
+                }
+            ],
+            "thumbnail": "21827_3.png"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66245/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "Rock",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "Rock"
+                }
+            ],
+            "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo2/files/original/237119/thumb.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66249/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "百鬼夜行絵巻",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "百鬼夜行絵巻"
+                }
+            ],
+            "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/repo2/files/original/237116/thumb.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66048/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "test",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "term": "dcterms:identifier",
+                    "value": "66048"
+                },
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "test"
+                }
+            ],
+            "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/tmp/1_out/00001.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66418/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "三條西家伝",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "term": "dcterms:identifier",
+                    "value": "ms0038-015"
+                },
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "三條西家伝"
+                }
+            ],
+            "thumbnail": "http://www.arc.ritsumei.ac.jp/archive01/theater/image/PB/berkeley/ms/ms0038/ms0038-015/UCB-ms0038-015_001.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66252/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "The Kiss",
+            "metadata": [
+                {
+                    "label": "Description",
+                    "term": "dcterms:description",
+                    "value": "Soap stone statuette of Rodin's The Kiss. Found at Snooper's Paradise in Brighton UK."
+                },
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "The Kiss"
+                }
+            ],
+            "thumbnail": "http://files.universalviewer.io/manifests/foundobjects/thekiss/thumb.jpg"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66243/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "hyakki_heatmap",
+            "metadata": [
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "hyakki_heatmap"
+                }
+            ],
+            "thumbnail": "hyakki_3.png"
+        },
+        {
+            "@id": "https://nakamura196.github.io/repot/iiif/66262/manifest.json",
+            "@type": "sc:Manifest",
+            "label": "アルバム写真",
+            "metadata": [
+                {
+                    "label": "Identifier",
+                    "term": "dcterms:identifier",
+                    "value": "hiraga"
+                },
+                {
+                    "label": "Title",
+                    "term": "dcterms:title",
+                    "value": "アルバム写真"
+                }
+            ],
+            "thumbnail": "https://diyhistory.org/tmp/images/0001.jpg"
+        }
+    ],
+    "thumbnail": "https://iiif.dl.itc.u-tokyo.ac.jp/iiif/hyakki/images/hyakki.tif/full/full/0/default.jpg",
+    "vhint": "use-thumb",
+    "viewingHint": "grid"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/310",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 310,
+    "o:label": "heading2",
+    "o:local_name": "heading2",
+    "o:term": "ex:heading2",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/257",
+    "@type": "o:Property",
+    "o:comment": "参照先に関係のあるメタデータを持つ",
+    "o:id": 257,
+    "o:label": "Record",
+    "o:local_name": "record",
+    "o:term": "dcndl:record",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

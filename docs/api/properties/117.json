@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/117",
+    "@type": "o:Property",
+    "o:comment": "The abbreviation of a title.",
+    "o:id": 117,
+    "o:label": "short title",
+    "o:local_name": "shortTitle",
+    "o:term": "bibo:shortTitle",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

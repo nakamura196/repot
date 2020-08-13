@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/256",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の二次的・副次的な入手可能性",
+    "o:id": 256,
+    "o:label": "Availability",
+    "o:local_name": "availability",
+    "o:term": "dcndl:availability",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

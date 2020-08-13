@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/113",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 113,
+    "o:label": "pmid",
+    "o:local_name": "pmid",
+    "o:term": "bibo:pmid",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

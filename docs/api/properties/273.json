@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/273",
+    "@type": "o:Property",
+    "o:comment": "Series Volume Titleの読み又は翻字形",
+    "o:id": 273,
+    "o:label": "Series Volume Title Transcription",
+    "o:local_name": "seriesVolumeTitleTranscription",
+    "o:term": "dcndl:seriesVolumeTitleTranscription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

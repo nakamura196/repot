@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/197",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 197,
+    "o:label": "hasRanges",
+    "o:local_name": "hasRanges",
+    "o:term": "sc:hasRanges",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/6",
+        "o:id": 6
+    }
+}

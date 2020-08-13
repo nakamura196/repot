@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/163",
+    "@type": "o:Property",
+    "o:comment": "A page about a topic of interest to this person.",
+    "o:id": 163,
+    "o:label": "interest",
+    "o:local_name": "interest",
+    "o:term": "foaf:interest",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

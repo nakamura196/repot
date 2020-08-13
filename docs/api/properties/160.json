@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/160",
+    "@type": "o:Property",
+    "o:comment": "A work info homepage of some person; a page about their work for some organization.",
+    "o:id": 160,
+    "o:label": "work info homepage",
+    "o:local_name": "workInfoHomepage",
+    "o:term": "foaf:workInfoHomepage",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

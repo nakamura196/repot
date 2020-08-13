@@ -1,0 +1,42 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/media/66240",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-29T03:36:27+00:00"
+    },
+    "o:filename": "66237/21827_3.png",
+    "o:id": 66240,
+    "o:ingester": "upload",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items/66237",
+        "o:id": 66237
+    },
+    "o:lang": null,
+    "o:media_type": "image/png",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-29T03:36:27+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/repot/files/original/66237/21827_3.png",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "de8f35f5c3d3100a99355908e1faac4bc8b687169e9b6f413563aee883857f6d",
+    "o:size": null,
+    "o:source": "21827_3.png",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": {
+        "large": "http://localhost:8882/d_omekas/repot/files/large/66237/21827_3.jpg",
+        "medium": "http://localhost:8882/d_omekas/repot/files/medium/66237/21827_3.jpg",
+        "square": "http://localhost:8882/d_omekas/repot/files/square/66237/21827_3.jpg"
+    },
+    "o:title": null
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/335",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 335,
+    "o:label": "出版年",
+    "o:local_name": "date",
+    "o:term": "ex:date",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

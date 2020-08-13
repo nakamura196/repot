@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/161",
+    "@type": "o:Property",
+    "o:comment": "A homepage of a school attended by the person.",
+    "o:id": 161,
+    "o:label": "schoolHomepage",
+    "o:local_name": "schoolHomepage",
+    "o:term": "foaf:schoolHomepage",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

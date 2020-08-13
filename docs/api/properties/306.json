@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/306",
+    "@type": "o:Property",
+    "o:comment": "",
+    "o:id": 306,
+    "o:label": "所蔵",
+    "o:local_name": "holding",
+    "o:term": "ex:holding",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

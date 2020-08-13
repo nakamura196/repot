@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/223",
+    "@type": "o:Property",
+    "o:comment": "単行書の構成レベルに相当する情報",
+    "o:id": 223,
+    "o:label": "Part Information",
+    "o:local_name": "partInformation",
+    "o:term": "dcndl:partInformation",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

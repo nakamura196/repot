@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/211",
+    "@type": "o:Property",
+    "o:comment": "The subject is a subproperty of a property.",
+    "o:id": 211,
+    "o:label": "subPropertyOf",
+    "o:local_name": "subPropertyOf",
+    "o:term": "rdfs:subPropertyOf",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/7",
+        "o:id": 7
+    }
+}

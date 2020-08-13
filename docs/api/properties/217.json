@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/217",
+    "@type": "o:Property",
+    "o:comment": "The defininition of the subject resource.",
+    "o:id": 217,
+    "o:label": "isDefinedBy",
+    "o:local_name": "isDefinedBy",
+    "o:term": "rdfs:isDefinedBy",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/7",
+        "o:id": 7
+    }
+}

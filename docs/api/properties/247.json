@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/247",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源の作成者が博士号を授与された年月日",
+    "o:id": 247,
+    "o:label": "Date Granted",
+    "o:local_name": "dateGranted",
+    "o:term": "dcndl:dateGranted",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

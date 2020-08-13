@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/165",
+    "@type": "o:Property",
+    "o:comment": "A link to the publications of this person.",
+    "o:id": 165,
+    "o:label": "publications",
+    "o:local_name": "publications",
+    "o:term": "foaf:publications",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

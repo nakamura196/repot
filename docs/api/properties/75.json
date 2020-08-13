@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/75",
+    "@type": "o:Property",
+    "o:comment": "Relates an event to associated documents; for example, conference to a paper.",
+    "o:id": 75,
+    "o:label": "presents",
+    "o:local_name": "presents",
+    "o:term": "bibo:presents",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

@@ -1,0 +1,341 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/items/66048",
+    "@type": "o:Item",
+    "dcterms:identifier": [
+        {
+            "@value": "66048",
+            "is_public": true,
+            "property_id": 10,
+            "property_label": "Identifier",
+            "type": "literal"
+        }
+    ],
+    "dcterms:title": [
+        {
+            "@value": "test",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-24T00:26:49+00:00"
+    },
+    "o:id": 66048,
+    "o:is_public": true,
+    "o:item_set": [],
+    "o:media": [
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66158",
+            "o:id": 66158
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66159",
+            "o:id": 66159
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66160",
+            "o:id": 66160
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66161",
+            "o:id": 66161
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66162",
+            "o:id": 66162
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66163",
+            "o:id": 66163
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66164",
+            "o:id": 66164
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66165",
+            "o:id": 66165
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66166",
+            "o:id": 66166
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66167",
+            "o:id": 66167
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66168",
+            "o:id": 66168
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66169",
+            "o:id": 66169
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66170",
+            "o:id": 66170
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66171",
+            "o:id": 66171
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66172",
+            "o:id": 66172
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66173",
+            "o:id": 66173
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66174",
+            "o:id": 66174
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66175",
+            "o:id": 66175
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66176",
+            "o:id": 66176
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66177",
+            "o:id": 66177
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66178",
+            "o:id": 66178
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66179",
+            "o:id": 66179
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66180",
+            "o:id": 66180
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66181",
+            "o:id": 66181
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66182",
+            "o:id": 66182
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66183",
+            "o:id": 66183
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66184",
+            "o:id": 66184
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66185",
+            "o:id": 66185
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66186",
+            "o:id": 66186
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66187",
+            "o:id": 66187
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66188",
+            "o:id": 66188
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66189",
+            "o:id": 66189
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66190",
+            "o:id": 66190
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66191",
+            "o:id": 66191
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66192",
+            "o:id": 66192
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66193",
+            "o:id": 66193
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66194",
+            "o:id": 66194
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66195",
+            "o:id": 66195
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66196",
+            "o:id": 66196
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66197",
+            "o:id": 66197
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66198",
+            "o:id": 66198
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66199",
+            "o:id": 66199
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66200",
+            "o:id": 66200
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66201",
+            "o:id": 66201
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66202",
+            "o:id": 66202
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66203",
+            "o:id": 66203
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66204",
+            "o:id": 66204
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66205",
+            "o:id": 66205
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66206",
+            "o:id": 66206
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66207",
+            "o:id": 66207
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66208",
+            "o:id": 66208
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66209",
+            "o:id": 66209
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66210",
+            "o:id": 66210
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66211",
+            "o:id": 66211
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66212",
+            "o:id": 66212
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66213",
+            "o:id": 66213
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66214",
+            "o:id": 66214
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66215",
+            "o:id": 66215
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66216",
+            "o:id": 66216
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66217",
+            "o:id": 66217
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66218",
+            "o:id": 66218
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66219",
+            "o:id": 66219
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66220",
+            "o:id": 66220
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66221",
+            "o:id": 66221
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66222",
+            "o:id": 66222
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66223",
+            "o:id": 66223
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66224",
+            "o:id": 66224
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66225",
+            "o:id": 66225
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66226",
+            "o:id": 66226
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66227",
+            "o:id": 66227
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66228",
+            "o:id": 66228
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66229",
+            "o:id": 66229
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66230",
+            "o:id": 66230
+        },
+        {
+            "@id": "http://localhost:8882/d_omekas/repot/api/media/66231",
+            "o:id": 66231
+        }
+    ],
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-25T01:00:18+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:site": [],
+    "o:thumbnail": null,
+    "o:title": "test"
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/262",
+    "@type": "o:Property",
+    "o:comment": "所蔵する逐次刊行物の欠号に関する情報",
+    "o:id": 262,
+    "o:label": "Absent Issues",
+    "o:local_name": "absentIssues",
+    "o:term": "dcndl:absentIssues",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

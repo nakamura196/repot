@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/80",
+    "@type": "o:Property",
+    "o:comment": "Relates a review document to a reviewed thing (resource, item, etc.).",
+    "o:id": 80,
+    "o:label": "review of",
+    "o:local_name": "reviewOf",
+    "o:term": "bibo:reviewOf",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

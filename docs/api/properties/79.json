@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/79",
+    "@type": "o:Property",
+    "o:comment": "A legal decision that reverses a ruling.",
+    "o:id": 79,
+    "o:label": "reversedBy",
+    "o:local_name": "reversedBy",
+    "o:term": "bibo:reversedBy",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

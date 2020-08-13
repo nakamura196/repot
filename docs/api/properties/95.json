@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/95",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 95,
+    "o:label": "eissn",
+    "o:local_name": "eissn",
+    "o:term": "bibo:eissn",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

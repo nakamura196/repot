@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/339",
+    "@type": "o:Property",
+    "o:comment": null,
+    "o:id": 339,
+    "o:label": "回数",
+    "o:local_name": "num",
+    "o:term": "ex:num",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/9",
+        "o:id": 9
+    }
+}

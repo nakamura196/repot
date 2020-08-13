@@ -1,0 +1,38 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/media/66251",
+    "@type": "o:Media",
+    "data": [],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-30T09:46:54+00:00"
+    },
+    "o:filename": "66249/hyakki.json",
+    "o:id": 66251,
+    "o:ingester": "url",
+    "o:is_public": true,
+    "o:item": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items/66249",
+        "o:id": 66249
+    },
+    "o:lang": null,
+    "o:media_type": "text/plain",
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-30T09:46:54+00:00"
+    },
+    "o:original_url": "http://localhost:8882/d_omekas/repot/files/original/66249/hyakki.json",
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:renderer": "file",
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:sha256": "46618eada393c4b9d8e34d896965428133c7353d4119b0d8759bacf802ec1804",
+    "o:size": null,
+    "o:source": "https://iiif.dl.itc.u-tokyo.ac.jp/repo2/files/original/237116/hyakki.json",
+    "o:thumbnail": null,
+    "o:thumbnail_urls": [],
+    "o:title": null
+}

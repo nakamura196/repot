@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/255",
+    "@type": "o:Property",
+    "o:comment": "当該情報資源をデジタル化した日付",
+    "o:id": 255,
+    "o:label": "Date Digitized",
+    "o:local_name": "dateDigitized",
+    "o:term": "dcndl:dateDigitized",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

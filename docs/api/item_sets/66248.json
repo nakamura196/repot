@@ -1,0 +1,36 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/item_sets/66248",
+    "@type": "o:ItemSet",
+    "dcterms:title": [
+        {
+            "@value": "3d",
+            "is_public": true,
+            "property_id": 1,
+            "property_label": "Title",
+            "type": "literal"
+        }
+    ],
+    "o:created": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-30T09:41:44+00:00"
+    },
+    "o:id": 66248,
+    "o:is_open": false,
+    "o:is_public": true,
+    "o:items": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/items?item_set_id=66248"
+    },
+    "o:modified": {
+        "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+        "@value": "2018-05-30T09:41:44+00:00"
+    },
+    "o:owner": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/users/1",
+        "o:id": 1
+    },
+    "o:resource_class": null,
+    "o:resource_template": null,
+    "o:thumbnail": null,
+    "o:title": "3d"
+}

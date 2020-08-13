@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/175",
+    "@type": "o:Property",
+    "o:comment": "A theme.",
+    "o:id": 175,
+    "o:label": "theme",
+    "o:local_name": "theme",
+    "o:term": "foaf:theme",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/4",
+        "o:id": 4
+    }
+}

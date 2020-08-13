@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/119",
+    "@type": "o:Property",
+    "o:comment": "The suffix of a name",
+    "o:id": 119,
+    "o:label": "suffix name",
+    "o:local_name": "suffixName",
+    "o:term": "bibo:suffixName",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}

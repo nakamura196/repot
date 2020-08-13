@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/276",
+    "@type": "o:Property",
+    "o:comment": "Volumeの読み又は翻字形",
+    "o:id": 276,
+    "o:label": "Volume Transcription",
+    "o:local_name": "volumeTranscription",
+    "o:term": "dcndl:volumeTranscription",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/244",
+    "@type": "o:Property",
+    "o:comment": "逐次刊行物の初号から終号までの巻次及び年月次",
+    "o:id": 244,
+    "o:label": "Volume Range",
+    "o:local_name": "volumeRange",
+    "o:term": "dcndl:volumeRange",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/8",
+        "o:id": 8
+    }
+}

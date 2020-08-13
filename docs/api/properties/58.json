@@ -1,0 +1,14 @@
+{
+    "@context": "http://localhost:8882/d_omekas/repot/api-context",
+    "@id": "http://localhost:8882/d_omekas/repot/api/properties/58",
+    "@type": "o:Property",
+    "o:comment": "An ordered list of authors. Normally, this list is seen as a priority list that order authors by importance.",
+    "o:id": 58,
+    "o:label": "list of authors",
+    "o:local_name": "authorList",
+    "o:term": "bibo:authorList",
+    "o:vocabulary": {
+        "@id": "http://localhost:8882/d_omekas/repot/api/vocabularies/3",
+        "o:id": 3
+    }
+}
